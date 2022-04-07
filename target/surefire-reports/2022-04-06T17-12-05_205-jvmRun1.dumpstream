@@ -1,0 +1,272 @@
+# Created at 2022-04-06T17:12:08.030
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+# Created at 2022-04-06T17:12:09.149
+Unexpected IOException with stream: abr. 06, 2022 5:12:09 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+
+# Created at 2022-04-06T17:12:09.285
+Unexpected IOException with stream: abr. 06, 2022 5:12:09 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 100, so returning the closest version found: 99
+
+
+# Created at 2022-04-06T17:12:09.287
+Unexpected IOException with stream: abr. 06, 2022 5:12:09 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 100 of 99
+
+
+# Created at 2022-04-06T17:12:15.383
+Unexpected IOException with stream: [
+
+# Created at 2022-04-06T17:12:15.385
+Unexpected IOException with stream: 1
+
+# Created at 2022-04-06T17:12:15.388
+Unexpected IOException with stream: 6
+
+# Created at 2022-04-06T17:12:15.391
+Unexpected IOException with stream: 4
+
+# Created at 2022-04-06T17:12:15.394
+Unexpected IOException with stream: 9
+
+# Created at 2022-04-06T17:12:15.396
+Unexpected IOException with stream: 2
+
+# Created at 2022-04-06T17:12:15.398
+Unexpected IOException with stream: 8
+
+# Created at 2022-04-06T17:12:15.401
+Unexpected IOException with stream: 3
+
+# Created at 2022-04-06T17:12:15.404
+Unexpected IOException with stream: 1
+
+# Created at 2022-04-06T17:12:15.408
+Unexpected IOException with stream: 3
+
+# Created at 2022-04-06T17:12:15.411
+Unexpected IOException with stream: 5
+
+# Created at 2022-04-06T17:12:15.413
+Unexpected IOException with stream: .
+
+# Created at 2022-04-06T17:12:15.425
+Unexpected IOException with stream: 3
+
+# Created at 2022-04-06T17:12:15.430
+Unexpected IOException with stream: 8
+
+# Created at 2022-04-06T17:12:15.434
+Unexpected IOException with stream: 2
+
+# Created at 2022-04-06T17:12:15.443
+Unexpected IOException with stream: ]
+
+# Created at 2022-04-06T17:12:15.447
+Unexpected IOException with stream: [
+
+# Created at 2022-04-06T17:12:15.453
+Unexpected IOException with stream: W
+
+# Created at 2022-04-06T17:12:15.480
+Unexpected IOException with stream: A
+
+# Created at 2022-04-06T17:12:15.482
+Unexpected IOException with stream: R
+
+# Created at 2022-04-06T17:12:15.485
+Unexpected IOException with stream: N
+
+# Created at 2022-04-06T17:12:15.489
+Unexpected IOException with stream: I
+
+# Created at 2022-04-06T17:12:15.491
+Unexpected IOException with stream: N
+
+# Created at 2022-04-06T17:12:15.494
+Unexpected IOException with stream: G
+
+# Created at 2022-04-06T17:12:15.496
+Unexpected IOException with stream: ]
+
+# Created at 2022-04-06T17:12:15.497
+Unexpected IOException with stream: :
+
+# Created at 2022-04-06T17:12:15.499
+Unexpected IOException with stream:  
+
+# Created at 2022-04-06T17:12:15.501
+Unexpected IOException with stream: T
+
+# Created at 2022-04-06T17:12:15.502
+Unexpected IOException with stream: i
+
+# Created at 2022-04-06T17:12:15.504
+Unexpected IOException with stream: m
+
+# Created at 2022-04-06T17:12:15.506
+Unexpected IOException with stream: e
+
+# Created at 2022-04-06T17:12:15.582
+Unexpected IOException with stream: d
+
+# Created at 2022-04-06T17:12:15.593
+Unexpected IOException with stream:  
+
+# Created at 2022-04-06T17:12:15.607
+Unexpected IOException with stream: o
+
+# Created at 2022-04-06T17:12:15.614
+Unexpected IOException with stream: u
+
+# Created at 2022-04-06T17:12:15.620
+Unexpected IOException with stream: t
+
+# Created at 2022-04-06T17:12:15.627
+Unexpected IOException with stream:  
+
+# Created at 2022-04-06T17:12:15.634
+Unexpected IOException with stream: c
+
+# Created at 2022-04-06T17:12:15.652
+Unexpected IOException with stream: o
+
+# Created at 2022-04-06T17:12:15.668
+Unexpected IOException with stream: n
+
+# Created at 2022-04-06T17:12:15.679
+Unexpected IOException with stream: n
+
+# Created at 2022-04-06T17:12:15.690
+Unexpected IOException with stream: e
+
+# Created at 2022-04-06T17:12:15.693
+Unexpected IOException with stream: c
+
+# Created at 2022-04-06T17:12:15.697
+Unexpected IOException with stream: t
+
+# Created at 2022-04-06T17:12:15.709
+Unexpected IOException with stream: i
+
+# Created at 2022-04-06T17:12:15.719
+Unexpected IOException with stream: n
+
+# Created at 2022-04-06T17:12:15.740
+Unexpected IOException with stream: g
+
+# Created at 2022-04-06T17:12:15.768
+Unexpected IOException with stream:  
+
+# Created at 2022-04-06T17:12:15.785
+Unexpected IOException with stream: t
+
+# Created at 2022-04-06T17:12:15.787
+Unexpected IOException with stream: o
+
+# Created at 2022-04-06T17:12:15.792
+Unexpected IOException with stream:  
+
+# Created at 2022-04-06T17:12:15.802
+Unexpected IOException with stream: C
+
+# Created at 2022-04-06T17:12:15.806
+Unexpected IOException with stream: h
+
+# Created at 2022-04-06T17:12:15.810
+Unexpected IOException with stream: r
+
+# Created at 2022-04-06T17:12:15.817
+Unexpected IOException with stream: o
+
+# Created at 2022-04-06T17:12:15.824
+Unexpected IOException with stream: m
+
+# Created at 2022-04-06T17:12:15.827
+Unexpected IOException with stream: e
+
+# Created at 2022-04-06T17:12:15.831
+Unexpected IOException with stream: ,
+
+# Created at 2022-04-06T17:12:15.834
+Unexpected IOException with stream:  
+
+# Created at 2022-04-06T17:12:15.838
+Unexpected IOException with stream: r
+
+# Created at 2022-04-06T17:12:15.842
+Unexpected IOException with stream: e
+
+# Created at 2022-04-06T17:12:15.846
+Unexpected IOException with stream: t
+
+# Created at 2022-04-06T17:12:15.851
+Unexpected IOException with stream: r
+
+# Created at 2022-04-06T17:12:15.856
+Unexpected IOException with stream: y
+
+# Created at 2022-04-06T17:12:15.859
+Unexpected IOException with stream: i
+
+# Created at 2022-04-06T17:12:15.861
+Unexpected IOException with stream: n
+
+# Created at 2022-04-06T17:12:15.863
+Unexpected IOException with stream: g
+
+# Created at 2022-04-06T17:12:15.865
+Unexpected IOException with stream: .
+
+# Created at 2022-04-06T17:12:15.867
+Unexpected IOException with stream: .
+
+# Created at 2022-04-06T17:12:15.869
+Unexpected IOException with stream: .
+
+# Created at 2022-04-06T17:12:15.871
+Unexpected IOException with stream: 
+
+# Created at 2022-04-06T17:12:15.873
+Unexpected IOException with stream: 
+
+
+# Created at 2022-04-06T17:12:23.555
+Unexpected IOException: 7,1,Funcionalidad de creaci\00F3n de cuenta,Creaci\00F3n de cuenta exitosa(Funcionalidad de creaci\00F3n de cuenta),null,unknown error: cannot determine loading status\000Afrom disconnected: received Inspector.detached event\000A  (Session info: chrome=100.0.4896.75)\000ABuild info: version: '4.1.3'\002C revision: '7b1ebf28ef'\000ASystem info: host: 'LAPTOP-NQBLKHVK'\002C ip: '192.168.100.41'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.11'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [79d388b7e492e654706e3a34b9f71f3d\002C get {url=http://automationpractice.com/index.php}]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 100.0.4896.75\002C chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8...\002C userDataDir: C:\005CUsers\005Cemili\005CAppData\005CLoca...}\002C goog:chromeOptions: {debuggerAddress: localhost:55579}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:55579/devtoo...\002C se:cdpVersion: 100.0.4896.75\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 79d388b7e492e654706e3a34b9f71f3d,null,unknown error: cannot determine loading status\000Afrom disconnected: received Inspector.detached event\000A  (Session info: chrome=100.0.4896.75)\000ABuild info: version: '4.1.3'\002C revision: '7b1ebf28ef'\000ASystem info: host: 'LAPTOP-NQBLKHVK'\002C ip: '192.168.100.41'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.11'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [79d388b7e492e654706e3a34b9f71f3d\002C get {url=http://automationpractice.com/index.php}]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 100.0.4896.75\002C chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8...\002C userDataDir: C:\005CUsers\005Cemili\005CAppData\005CLoca...}\002C goog:chromeOptions: {debuggerAddress: localhost:55579}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:55579/devtoo...\002C se:cdpVersion: 100.0.4896.75\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 79d388b7e492e654706e3a34b9f71f3d,unknown error: cannot determine loading status\000Afrom disconnected: received Inspector.detached event\000A  (Session info: chrome=100.0.4896.75)\000ABuild info: version: '4.1.3'\002C revision: '7b1ebf28ef'\000ASystem info: host: 'LAPTOP-NQBLKHVK'\002C ip: '192.168.100.41'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.11'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [79d388b7e492e654706e3a34b9f71f3d\002C get {url=http://automationpractice.com/index.php}]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 100.0.4896.75\002C chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8...\002C userDataDir: C:\005CUsers\005Cemili\005CAppData\005CLoca...}\002C goog:chromeOptions: {debuggerAddress: localhost:55579}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:55579/devtoo...\002C se:cdpVersion: 100.0.4896.75\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 79d388b7e492e654706e3a34b9f71f3d,org.openqa.selenium.WebDriverException: \000Aunknown error: cannot determine loading status\000Afrom disconnected: received Inspector.detached event\000A  (Session info: chrome=100.0.4896.75)\000ABuild info: version: '4.1.3'\002C revision: '7b1ebf28ef'\000ASystem info: host: 'LAPTOP-NQBLKHVK'\002C ip: '192.168.100.41'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.11'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [79d388b7e492e654706e3a34b9f71f3d\002C get {url=http://automationpractice.com/index.php}]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 100.0.4896.75\002C chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8...\002C userDataDir: C:\005CUsers\005Cemili\005CAppData\005CLoca...}\002C goog:chromeOptions: {debuggerAddress: localhost:55579}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:55579/devtoo...\002C se:cdpVersion: 100.0.4896.75\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 79d388b7e492e654706e3a34b9f71f3d\000A
+
+
+# Created at 2022-04-06T17:12:23.557
+Unexpected IOException: 7,1,Funcionalidad de creaci\00F3n de cuenta,Creaci\00F3n de cuenta exitosa(Funcionalidad de creaci\00F3n de cuenta),null,chrome not reachable\000A  (Session info: chrome=100.0.4896.75)\000ABuild info: version: '4.1.3'\002C revision: '7b1ebf28ef'\000ASystem info: host: 'LAPTOP-NQBLKHVK'\002C ip: '192.168.100.41'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.11'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [79d388b7e492e654706e3a34b9f71f3d\002C deleteAllCookies {}]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 100.0.4896.75\002C chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8...\002C userDataDir: C:\005CUsers\005Cemili\005CAppData\005CLoca...}\002C goog:chromeOptions: {debuggerAddress: localhost:55579}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:55579/devtoo...\002C se:cdpVersion: 100.0.4896.75\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 79d388b7e492e654706e3a34b9f71f3d,null,chrome not reachable\000A  (Session info: chrome=100.0.4896.75)\000ABuild info: version: '4.1.3'\002C revision: '7b1ebf28ef'\000ASystem info: host: 'LAPTOP-NQBLKHVK'\002C ip: '192.168.100.41'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.11'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [79d388b7e492e654706e3a34b9f71f3d\002C deleteAllCookies {}]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 100.0.4896.75\002C chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8...\002C userDataDir: C:\005CUsers\005Cemili\005CAppData\005CLoca...}\002C goog:chromeOptions: {debuggerAddress: localhost:55579}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:55579/devtoo...\002C se:cdpVersion: 100.0.4896.75\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 79d388b7e492e654706e3a34b9f71f3d,chrome not reachable\000A  (Session info: chrome=100.0.4896.75)\000ABuild info: version: '4.1.3'\002C revision: '7b1ebf28ef'\000ASystem info: host: 'LAPTOP-NQBLKHVK'\002C ip: '192.168.100.41'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.11'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [79d388b7e492e654706e3a34b9f71f3d\002C deleteAllCookies {}]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 100.0.4896.75\002C chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8...\002C userDataDir: C:\005CUsers\005Cemili\005CAppData\005CLoca...}\002C goog:chromeOptions: {debuggerAddress: localhost:55579}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:55579/devtoo...\002C se:cdpVersion: 100.0.4896.75\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 79d388b7e492e654706e3a34b9f71f3d,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=100.0.4896.75)\000ABuild info: version: '4.1.3'\002C revision: '7b1ebf28ef'\000ASystem info: host: 'LAPTOP-NQBLKHVK'\002C ip: '192.168.100.41'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.11'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACommand: [79d388b7e492e654706e3a34b9f71f3d\002C deleteAllCookies {}]\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 100.0.4896.75\002C chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8...\002C userDataDir: C:\005CUsers\005Cemili\005CAppData\005CLoca...}\002C goog:chromeOptions: {debuggerAddress: localhost:55579}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C se:cdp: ws://localhost:55579/devtoo...\002C se:cdpVersion: 100.0.4896.75\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 79d388b7e492e654706e3a34b9f71f3d\000A
+
+
+# Created at 2022-04-06T17:12:23.593
+Unexpected IOException with stream: [32m[1m?????????????????????????????????????????????????????????????????????????????????????[0m
+[32m[1m?[0m Share your Cucumber Report with your team at [36m[1m[4mhttps://reports.cucumber.io[0m          [32m[1m?[0m
+[32m[1m?[0m Activate publishing with one of the following:                                    [32m[1m?[0m
+[32m[1m?[0m                                                                                   [32m[1m?[0m
+[32m[1m?[0m src/test/resources/cucumber.properties:          [36mcucumber.publish.enabled[0m=[36mtrue[0m    [32m[1m?[0m
+[32m[1m?[0m src/test/resources/junit-platform.properties:    [36mcucumber.publish.enabled[0m=[36mtrue[0m    [32m[1m?[0m
+[32m[1m?[0m Environment variable:                            [36mCUCUMBER_PUBLISH_ENABLED[0m=[36mtrue[0m    [32m[1m?[0m
+[32m[1m?[0m JUnit:                                           [36m@CucumberOptions[0m(publish = [36mtrue[0m) [32m[1m?[0m
+[32m[1m?[0m                                                                                   [32m[1m?[0m
+[32m[1m?[0m More information at [36mhttps://cucumber.io/docs/cucumber/environment-variables/[0m      [32m[1m?[0m
+[32m[1m?[0m                                                                                   [32m[1m?[0m
+[32m[1m?[0m Disable this message with one of the following:                                   [32m[1m?[0m
+[32m[1m?[0m                                                                                   [32m[1m?[0m
+[32m[1m?[0m src/test/resources/cucumber.properties:          [36mcucumber.publish.quiet[0m=[36mtrue[0m      [32m[1m?[0m
+[32m[1m?[0m src/test/resources/junit-platform.properties:    [36mcucumber.publish.quiet[0m=[36mtrue[0m      [32m[1m?[0m
+[32m[1m?????????????????????????????????????????????????????????????????????????????????????[0m
+
+
+# Created at 2022-04-06T17:12:23.595
+Unexpected IOException: 2,1,org.apache.maven.surefire.junit4.JUnit4Provider,support.RunTest,null,null,null
+
+
